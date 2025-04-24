@@ -21,7 +21,12 @@ const config: Config = {
         "span-g2": "#FBF0FB",
         "span-g3": "#FB6565",
         "cv-g1" : "#4A90E2",
-        "cv-g2" : "#2A5CBE"
+        "cv-g2" : "#2A5CBE",
+        "about-bor" : "#757779",
+        "about-bg1" : "#3A3B3E",
+        "about-bg2" : "#242528",
+        "about-bg3" : "#221D20",
+        "about-f-stu" : "#AAAAAA"
       },
       backgroundImage: {
         "grid-pattern": `
