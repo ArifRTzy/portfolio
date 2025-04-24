@@ -31,7 +31,7 @@ const Hero = () => {
           </p>
           <h1 className="text-white text-4xl  sm:text-5xl  md:text-7xl 2xl:text-8xl font-bold  lg:font-extrabold">
             <span className="bg-gradient-to-r from-span-g1 via-span-g2 to-span-g3 bg-clip-text text-transparent">
-              Hallo, I&apos;m{" "}
+              Hello, I&apos;m{" "}
             </span>
             Arif
           </h1>
