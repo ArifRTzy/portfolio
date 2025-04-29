@@ -27,7 +27,12 @@ const config: Config = {
         "about-bg2" : "#242528",
         "about-bg3" : "#221D20",
         "about-f-stu" : "#AAAAAA",
-        "about-text" : "#DFDFDF"
+        "about-text" : "#DFDFDF",
+        "h1-black1" : "#EAEAEA",
+        "h1-black2" : "#C6C6C6",
+        card1 : "#0A0A0A",
+        card2 : "#222222",
+        card3 : "#121212"
       },
       backgroundImage: {
         "grid-pattern": `

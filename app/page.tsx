@@ -1,6 +1,7 @@
 import Hero from "@/components/hero"
 import About from "@/components/about"
 import TechStack from "@/components/tech-stack"
+import Projects from "@/components/projects"
 
 const Home = () => {
   return (
@@ -8,6 +9,7 @@ const Home = () => {
       <Hero/>
       <About/>
       <TechStack/>
+      <Projects/>
     </div>
   )
 }

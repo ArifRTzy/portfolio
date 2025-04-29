@@ -13,9 +13,9 @@ const About = () => {
                     <p>SMK Negeri 2 Yogyakarta</p>
                 </div>
             </div>
-            <div className="2xl:mt-10 md:mt-6 mt-4 md:flex gap-6 xl:gap-10 w-full">
+            <div className="2xl:mt-8 md:mt-6 mt-4 md:flex gap-6 xl:gap-10 w-full">
                 <Image src={'/dummy.png'} width={500} height={500} alt="about-img" className="rounded-lg abt-img:h-48 abt-img:w-48 md:h-fit aspect-square"/>
-                <div className="flex flex-col gap-2  md:gap-4 xl:gap-8 text-about-text w-full md:text-lg  xl:text-xl  2xl:text-2xl mt-2">
+                <div className="flex flex-col gap-2  md:gap-4 xl:gap-8 text-about-text w-full md:text-lg  xl:text-xl  2xl:text-2xl mt-2 sm:mt-0">
                   <p>I am currently a 12th-grade student at SMK Negeri 2 Yogyakarta, pursuing a major in Sistem Informasi Jaringan dan Aplikasi (SIJA). This program equips me with skills in computer network management, cybersecurity, and software application development, providing a strong foundation in IT infrastructure and programming.</p>
                   <p>Proficient in frontend technologies such as HTML, CSS, React, Next.js, and Tailwind CSS for creating responsive user interfaces, and backend technologies like Node.js, Express.js for building servers and APIs, with MySQL and MongoDB for database management.</p>
                 </div>
