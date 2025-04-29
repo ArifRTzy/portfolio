@@ -26,7 +26,8 @@ const config: Config = {
         "about-bg1" : "#3A3B3E",
         "about-bg2" : "#242528",
         "about-bg3" : "#221D20",
-        "about-f-stu" : "#AAAAAA"
+        "about-f-stu" : "#AAAAAA",
+        "about-text" : "#DFDFDF"
       },
       backgroundImage: {
         "grid-pattern": `
@@ -40,6 +41,10 @@ const config: Config = {
       backgroundPosition: {
         "grid-crop": "0 center; ",
       },
+      screens: {
+        "abt-img" : {'max': '767px'},
+        "abt-ttl" : {'min' : '445px'}
+      }
     },
   },
   plugins: [],
