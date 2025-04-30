@@ -2,6 +2,7 @@ import Hero from "@/components/hero"
 import About from "@/components/about"
 import TechStack from "@/components/tech-stack"
 import Projects from "@/components/projects"
+import Contact from "@/components/contact"
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       <About/>
       <TechStack/>
       <Projects/>
+      <Contact/>
     </div>
   )
 }

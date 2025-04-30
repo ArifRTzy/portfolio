@@ -32,7 +32,9 @@ const config: Config = {
         "h1-black2" : "#C6C6C6",
         card1 : "#0A0A0A",
         card2 : "#222222",
-        card3 : "#121212"
+        card3 : "#121212",
+        "card-text": "#989898",
+        "card-btn" : "#303030"
       },
       backgroundImage: {
         "grid-pattern": `
